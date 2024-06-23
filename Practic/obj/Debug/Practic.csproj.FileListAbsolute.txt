@@ -1,0 +1,15 @@
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\bin\Debug\Practic.exe.config
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\bin\Debug\Practic.exe
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\bin\Debug\Practic.pdb
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\Practic.csproj.AssemblyReference.cache
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\MainWindow.g.cs
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\App.g.cs
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\Practic_MarkupCompile.cache
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\Practic_MarkupCompile.lref
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\MainWindow.baml
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\Practic.g.resources
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\Practic.Properties.Resources.resources
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\Practic.csproj.GenerateResource.cache
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\Practic.exe
+D:\ВСЕ ДОКУМЕНТЫ\Practic\Practic\obj\Debug\Practic.pdb
